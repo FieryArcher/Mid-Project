@@ -1,0 +1,13 @@
+body{
+	margin: 0 auto;
+    min-width: 1400px;
+    color: white;
+}
+.headr{
+	display: flex;
+    justify-content: space-between;
+    background: yellow;
+    text-transform: uppercase;
+    padding: 10px 200px;
+    border-bottom: 2px solid white;
+}
